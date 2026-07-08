@@ -1,6 +1,8 @@
-# carlender.loans
+# carlender-loans
 
-Static site for carlender.loans.
+Eleventy / 11ty source site.
 
-Source factory repository: git@github.com:erikhsu70/pbns.git
-Cloudflare Pages project: carlender-loans
+- Source: `src/`
+- Build command: `npm run build`
+- Output: `dist/`
+- Cloudflare Pages project: `carlender-loans`
