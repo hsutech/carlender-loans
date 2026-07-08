@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carlender.loans/sitemap.xml
