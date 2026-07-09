@@ -124,6 +124,14 @@ nav,.main-nav{gap:14px!important;text-transform:uppercase;font-size:13px!importa
 .hero-panel,.card,.service-card,.post-card{border-radius:0!important;box-shadow:none!important}
 .button,.apply-btn{border-radius:0!important;clip-path:polygon(8px 0,100% 0,calc(100% - 8px) 100%,0 100%)}
 
+
+.site-header{background:var(--dna-ink)!important;color:#fff!important}
+.site-header a{color:#fff!important}
+.site-header nav{justify-content:flex-end!important}
+.hero{grid-template-columns:.82fr 1.18fr!important}
+.service-grid,.services-grid{grid-template-columns:repeat(4,minmax(0,1fr))!important}
+.service-card{min-height:240px!important}
+
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
   .services-grid,.solution-grid,.category-grid,.collection-grid,.post-grid,.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
