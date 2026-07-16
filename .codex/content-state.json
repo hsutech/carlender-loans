@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-07-16T00:00:00+02:00",
+  "updatedAt": "2026-07-16T05:37:10+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -11,7 +11,19 @@
       "title": "Best Used Car Loans in Windsor, Ontario: 7 Options to Compare",
       "url": "https://carlender.loans/blog/best-used-car-loans-windsor-ontario/",
       "date": "2026-07-16",
-      "status": "draft_pending_verification",
+      "status": "published",
+      "commit": "896db9e",
+      "verifiedAt": "2026-07-16T05:37:10+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
       "serpObservations": [
         "SERP intent is commercial/BOFU with mixed local and national results: marketplace inventory, dealership finance pages, national lender/comparison guides and educational car financing articles.",
         "Relevant top-result formats are listicles, lender reviews, application pages and inventory/search pages; most national pages use comparison tables, pros/cons, FAQs and financial-risk disclaimers.",
@@ -35,7 +47,7 @@
         "https://carlender.loans/blog/car-loan-preapproval-checklist/"
       ],
       "featuredImage": "/assets/best-used-car-loans-windsor-ontario.jpg",
-      "notes": "Article created and integrated locally; status will be updated to published only after push and live custom-domain verification."
+      "notes": "Article created, pushed to main and verified live on the custom domain."
     }
   ],
   "skipped": []
