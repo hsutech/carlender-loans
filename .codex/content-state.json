@@ -1,0 +1,42 @@
+{
+  "domain": "carlender.loans",
+  "updatedAt": "2026-07-16T00:00:00+02:00",
+  "published": [
+    {
+      "keyword": "best used car loans in Windsor Ontario",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "best-used-car-loans-windsor-ontario",
+      "title": "Best Used Car Loans in Windsor, Ontario: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-used-car-loans-windsor-ontario/",
+      "date": "2026-07-16",
+      "status": "draft_pending_verification",
+      "serpObservations": [
+        "SERP intent is commercial/BOFU with mixed local and national results: marketplace inventory, dealership finance pages, national lender/comparison guides and educational car financing articles.",
+        "Relevant top-result formats are listicles, lender reviews, application pages and inventory/search pages; most national pages use comparison tables, pros/cons, FAQs and financial-risk disclaimers.",
+        "Local gap: few results explain how a Windsor buyer should choose among dealer-arranged financing, banks, credit unions, marketplaces, bad credit paths and preparation-first applications.",
+        "SERP pages commonly discuss prequalification, rate/term comparison, credit profile, vehicle restrictions, total cost, negative equity and document readiness."
+      ],
+      "sources": [
+        "https://www.autotrader.ca/cars/on/windsor/",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/order-credit-report.html",
+        "https://www.omvic.ca/buying/your-rights/all-in-price-advertising/",
+        "https://www.ontario.ca/page/buy-or-sell-used-vehicle-ontario"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/truck-suv-van-loans/",
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/blog/car-loan-preapproval-checklist/"
+      ],
+      "featuredImage": "/assets/best-used-car-loans-windsor-ontario.jpg",
+      "notes": "Article created and integrated locally; status will be updated to published only after push and live custom-domain verification."
+    }
+  ],
+  "skipped": []
+}
