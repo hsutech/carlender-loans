@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-07-16T05:37:10+02:00",
+  "updatedAt": "2026-07-19T05:29:22+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -47,6 +47,57 @@
         "https://carlender.loans/blog/car-loan-preapproval-checklist/"
       ],
       "featuredImage": "/assets/best-used-car-loans-windsor-ontario.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain."
+    },
+    {
+      "keyword": "best bad credit car loans in Windsor",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "best-bad-credit-car-loans-windsor",
+      "title": "Best Bad Credit Car Loans in Windsor: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-bad-credit-car-loans-windsor/",
+      "date": "2026-07-19",
+      "status": "published",
+      "commit": "2387fc9",
+      "verifiedAt": "2026-07-19T05:29:22+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "SERP intent is high-commercial/BOFU with local dealer financing forms, bad credit auto loan landing pages, Ontario-wide subprime brokers and affiliated Car Lender properties.",
+        "Relevant pages are mostly application-first dealer or broker pages rather than neutral comparisons; they commonly emphasize fast approval, all-credit acceptance, bankruptcy/no-credit support and local Windsor service areas.",
+        "Top pages include Rocky Motors, Right Turn Auto, NOS Motors, Five Star Auto Sale, Qaddis Auto Sales, CarNova Auto Sales and Car Loans Windsor-style landing pages; several include forms, FAQs, inventory CTAs or review/testimonial sections.",
+        "Gap addressed: a Windsor-specific comparison that explains tradeoffs, written terms, credit inquiries, affordability, Ontario dealer disclosures and safer alternatives without inventing rates, reviews or guaranteed approvals."
+      ],
+      "sources": [
+        "https://www.rockymotors.com/request-financing",
+        "https://rta.ca/bad-credit-car-loans/windsor/",
+        "https://nosmotors.ca/",
+        "https://fivestarautosale.com/finance",
+        "https://www.qaddisautosales.ca/",
+        "https://carnovaautosales.ca/financing/",
+        "https://www.ezeewheelz.com/financing/",
+        "https://www.omvic.ca/buying/your-rights/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/title-loans.html"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/blog/car-loan-preapproval-checklist/",
+        "https://carlender.loans/truck-suv-van-loans/"
+      ],
+      "featuredImage": "/assets/best-bad-credit-car-loans-windsor.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain."
     }
   ],
