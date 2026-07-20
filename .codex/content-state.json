@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-07-19T05:29:22+02:00",
+  "updatedAt": "2026-07-20T10:46:35+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -99,6 +99,59 @@
       ],
       "featuredImage": "/assets/best-bad-credit-car-loans-windsor.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain."
+    },
+    {
+      "keyword": "best auto financing companies in Windsor",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "best-auto-financing-companies-windsor",
+      "title": "Best Auto Financing Companies in Windsor: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-auto-financing-companies-windsor/",
+      "date": "2026-07-20",
+      "status": "published",
+      "commit": "a6a03aa",
+      "verifiedAt": "2026-07-20T10:46:35+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "SERP intent is commercial/BOFU and local, dominated by Windsor dealer finance departments, application-first used-car financing pages, subprime auto finance pages and local inventory pages rather than neutral editorial reviews.",
+        "Relevant pages emphasize fast applications, local service areas, bad credit/no credit support, budget tools, dealer inventory and credit application forms; most do not provide detailed rate tables or independent comparison methodology.",
+        "Top relevant results observed included AutoFinancingWindsor.com/Car Lender affiliate properties, Ezee Wheelz, Rocky Motors, Deals on Wheelz, AutoMAXX Windsor, Global Motors, NOS Motors, Qaddis Auto Sales and Premier Chevrolet Buick GMC-style finance pages.",
+        "Gap addressed: a neutral Windsor-specific comparison of provider types and companies with consumer-protection checks, lender-identity questions, total-cost prompts and no invented prices, ratings or approval statistics."
+      ],
+      "sources": [
+        "https://www.autofinancingwindsor.com/",
+        "https://www.usedcarloanwindsor.com/",
+        "https://www.ezeewheelz.com/financing/",
+        "https://www.rockymotors.com/",
+        "https://dealsonwheelz.ca/en/home/",
+        "https://www.automaxxwindsor.com/requests/credit.html",
+        "https://www.globalmotorsautodealer.com/finance/",
+        "https://nosmotors.ca/",
+        "https://www.qaddisautosales.ca/",
+        "https://www.premierchev.com/finance/",
+        "https://www.omvic.ca/buying/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car.html"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/blog/car-loan-preapproval-checklist/",
+        "https://carlender.loans/truck-suv-van-loans/"
+      ],
+      "featuredImage": "/assets/best-auto-financing-companies-windsor.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain. Visual screenshot tooling was unavailable; responsive CSS, mobile table rules, HTML surfaces and live assets were verified."
     }
   ],
   "skipped": []
