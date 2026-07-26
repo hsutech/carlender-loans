@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-07-20T10:46:35+02:00",
+  "updatedAt": "2026-07-26T05:25:30+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -152,6 +152,99 @@
       ],
       "featuredImage": "/assets/best-auto-financing-companies-windsor.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain. Visual screenshot tooling was unavailable; responsive CSS, mobile table rules, HTML surfaces and live assets were verified."
+    },
+    {
+      "keyword": "car loan pre approval in Windsor Ontario",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "car-loan-pre-approval-windsor-ontario",
+      "title": "Car Loan Pre Approval in Windsor, Ontario: What to Check Before You Apply",
+      "url": "https://carlender.loans/blog/car-loan-pre-approval-windsor-ontario/",
+      "date": "2026-07-22",
+      "status": "published",
+      "commit": "81cea51",
+      "verifiedAt": "2026-07-26T05:25:30+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "htmlCssAudit",
+        "mobileRender": "htmlCssAudit"
+      },
+      "serpObservations": [
+        "Reconciled from the existing main branch article and live custom-domain URL; topic is already published before this run.",
+        "Article targets BOFU/pre-approval intent and does not block the next workbook keyword."
+      ],
+      "sources": [
+        "https://www.vwofwindsor.com/requests/credit.html",
+        "https://www.ezeewheelz.com/financing/",
+        "https://www.401auto.ca/locations/windsor/",
+        "https://financethat.ca/auto-financing-ontario/",
+        "https://www.finder.com/ca/car-loans/pre-approved-car-loan",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.omvic.ca/buying/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/truck-suv-van-loans/",
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/car-loan-preapproval-checklist/"
+      ],
+      "featuredImage": "/assets/car-loan-pre-approval-windsor-ontario.jpg",
+      "notes": "Reconciled after detecting the existing published article on main."
+    },
+    {
+      "keyword": "best truck financing in Ontario",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "best-truck-financing-ontario",
+      "title": "Best Truck Financing in Ontario: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-truck-financing-ontario/",
+      "date": "2026-07-26",
+      "status": "published",
+      "commit": "caedd46",
+      "verifiedAt": "2026-07-26T05:25:30+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "htmlCssAudit",
+        "mobileRender": "htmlCssAudit"
+      },
+      "serpObservations": [
+        "SERP intent is commercial/BOFU, mixing truck-finance comparison guides, current pickup finance deal pages, heavy-truck dealer finance pages and equipment-finance broker pages.",
+        "Top relevant formats include long comparison guides with lender tables, dealer finance/application pages, commercial truck finance pages and province-specific offer listings.",
+        "SERP pages commonly emphasize fast applications, commercial equipment loans or leases, monthly offers, bad-credit flexibility, owner-operator paths and required documents.",
+        "Gap addressed: a neutral Ontario guide that separates personal pickups, work trucks and commercial units, with written-term checks, CVOR awareness, total-cost review and no invented rates, reviews or rankings."
+      ],
+      "sources": [
+        "https://www.finder.com/ca/business-loans/compare-truck-loans",
+        "https://trueautocost.com/best-truck-finance-deals/ontario",
+        "https://www.ontario.ca/page/commercial-vehicle-operators-registration-cvor",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.omvic.ca/buying/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.uctrucks.com/credit-financing-heavy-trucks-dealership--financing",
+        "https://www.equipmentfinancecanada.com/transportation-equipment-financing-leasing/owner-operator-truck-trailer--financing-leasing/in/ontario/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/truck-suv-van-loans/",
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/car-loan-pre-approval-windsor-ontario/"
+      ],
+      "featuredImage": "/assets/best-truck-financing-ontario.jpg",
+      "notes": "Article created, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain HTTP verification passed. Playwright browser binaries/system Chrome were unavailable for screenshot QA; responsive CSS, mobile table rules, generated HTML and live HTTP surfaces were verified."
     }
   ],
   "skipped": []
