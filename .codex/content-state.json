@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-07-26T05:25:30+02:00",
+  "updatedAt": "2026-07-27T05:39:17+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -245,6 +245,56 @@
       ],
       "featuredImage": "/assets/best-truck-financing-ontario.jpg",
       "notes": "Article created, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain HTTP verification passed. Playwright browser binaries/system Chrome were unavailable for screenshot QA; responsive CSS, mobile table rules, generated HTML and live HTTP surfaces were verified."
+    },
+    {
+      "keyword": "best car loans for newcomers to Canada",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Canada",
+      "slug": "best-car-loans-newcomers-canada",
+      "title": "Best Car Loans for Newcomers to Canada: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-car-loans-newcomers-canada/",
+      "date": "2026-07-27",
+      "status": "published",
+      "commit": "0d93a9e",
+      "verifiedAt": "2026-07-27T05:39:17+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "htmlCssAudit; browserUnavailable",
+        "mobileRender": "htmlCssAudit; browserUnavailable"
+      },
+      "serpObservations": [
+        "SERP intent is commercial/BOFU, mixing bank newcomer auto finance programs, manufacturer finance programs, dealer or broker application pages and broad Canadian car-loan comparison guides.",
+        "Relevant top-result formats include bank product pages from TD, RBC, Scotiabank and National Bank, Ford Credit newcomer program content, marketplace landing pages and general best-car-loan articles.",
+        "SERP pages commonly emphasize no Canadian credit history, permanent resident or worker eligibility, participating dealership access, down payment differences, proof of income, status documents, soft checks and credit-building benefits.",
+        "Gap addressed: a neutral newcomer-focused comparison of routes and questions to ask before applying, without invented rates, reviews, approval odds or personal experience claims."
+      ],
+      "sources": [
+        "https://www.td.com/ca/en/personal-banking/products/auto-finance/new-to-canada",
+        "https://www.rbcroyalbank.com/new-to-canada/car-loans-for-newcomers/",
+        "https://www.scotiabank.com/ca/en/personal/loans-lines/auto-finance-program.html",
+        "https://www.nationalbank.com/personal/help-centre/loan-credit-line/loan/car-loan-for-newcomer-to-canada.html",
+        "https://www.ford.ca/finance/special-programs/newcomer-program/",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.omvic.ca/buying/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/blog/car-loan-pre-approval-windsor-ontario/",
+        "https://carlender.loans/blog/car-loan-preapproval-checklist/",
+        "https://carlender.loans/bad-credit-car-loans/"
+      ],
+      "featuredImage": "/assets/best-car-loans-newcomers-canada.jpg",
+      "notes": "Article created, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain HTTP verification passed. Playwright browser package was available but browser binaries were missing and system Chrome headless launch failed; responsive CSS, mobile table rules, generated HTML and live HTTP surfaces were verified instead."
     }
   ],
   "skipped": []
