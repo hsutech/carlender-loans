@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-07-27T05:39:17+02:00",
+  "updatedAt": "2026-07-29T09:11:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -295,6 +295,98 @@
       ],
       "featuredImage": "/assets/best-car-loans-newcomers-canada.jpg",
       "notes": "Article created, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain HTTP verification passed. Playwright browser package was available but browser binaries were missing and system Chrome headless launch failed; responsive CSS, mobile table rules, generated HTML and live HTTP surfaces were verified instead."
+    },
+    {
+      "keyword": "best car loans after bankruptcy in Ontario",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "best-car-loans-after-bankruptcy-ontario",
+      "title": "Best Car Loans After Bankruptcy in Ontario: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-car-loans-after-bankruptcy-ontario/",
+      "date": "2026-07-28",
+      "status": "published",
+      "commit": "39652c6",
+      "verifiedAt": "2026-07-29T09:11:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "htmlCssAudit; browserUnavailable",
+        "mobileRender": "htmlCssAudit; browserUnavailable"
+      },
+      "serpObservations": [
+        "Reconciled from the existing main branch article and live custom-domain URL after detecting it was already published but absent from state.",
+        "Topic is already published and should be skipped in future keyword selection."
+      ],
+      "sources": [
+        "https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/you-owe-money/you-owe-money-bankruptcy-discharge-and-its-consequences-bankrupt",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.omvic.ca/buying/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/best-bad-credit-car-loans-windsor/",
+        "https://carlender.loans/blog/car-loan-pre-approval-windsor-ontario/"
+      ],
+      "featuredImage": "/assets/best-car-loans-after-bankruptcy-ontario.jpg",
+      "notes": "Reconciled existing article on main; live page, image, blog index and sitemap verified during the no-credit article run."
+    },
+    {
+      "keyword": "best no credit car financing in Windsor",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "best-no-credit-car-financing-windsor",
+      "title": "Best No Credit Car Financing in Windsor: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-no-credit-car-financing-windsor/",
+      "date": "2026-07-29",
+      "status": "published",
+      "commit": "ca14eb6",
+      "verifiedAt": "2026-07-29T09:11:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "htmlCssAudit; browserUnavailable",
+        "mobileRender": "htmlCssAudit; browserUnavailable"
+      },
+      "serpObservations": [
+        "SERP intent is commercial/BOFU and local, dominated by Windsor dealer finance departments, used-car retailer financing pages, application forms and broad all-credit/no-credit messaging.",
+        "Relevant top-result formats are short dealer finance landing pages, inventory/application pages and broker-style lead pages; they commonly emphasize no credit, bad credit, bankruptcy, newcomers, first-time buyers, fast forms and lender relationships.",
+        "Top relevant local results reviewed included Windsor Mitsubishi, Wincity Motors, Border City Auto, CarNova Auto Sales, Rocky Motors and similar Windsor finance pages, alongside official Canada/Ontario consumer and credit resources.",
+        "Gap addressed: a neutral Windsor comparison that separates no credit from bad credit, explains seven routes, documents, co-signer risk, credit reporting, inquiries, Ontario contract checks and avoids invented rates or approval claims."
+      ],
+      "sources": [
+        "https://www.windsormitsubishi.ca/",
+        "https://www.wincitymotors.ca/finance-department/",
+        "https://www.bordercityauto.ca/www/",
+        "https://carnovaautosales.ca/financing/",
+        "https://www.rockymotors.com/request-financing",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.omvic.ca/buying/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/blog/best-car-loans-newcomers-canada/",
+        "https://carlender.loans/blog/car-loan-pre-approval-windsor-ontario/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/best-bad-credit-car-loans-windsor/"
+      ],
+      "featuredImage": "/assets/best-no-credit-car-financing-windsor.jpg",
+      "notes": "Article created, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain HTTP verification passed. Playwright package was available but browser binaries were missing; responsive CSS, mobile table rules, generated HTML and live HTTP surfaces were verified instead. No YouTube embed was used because current SERP intent was application/comparison-led and a video was not materially useful."
     }
   ],
   "skipped": []
