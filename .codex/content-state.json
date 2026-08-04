@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-07-29T09:11:00+02:00",
+  "updatedAt": "2026-08-04T10:31:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -387,6 +387,64 @@
       ],
       "featuredImage": "/assets/best-no-credit-car-financing-windsor.jpg",
       "notes": "Article created, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain HTTP verification passed. Playwright package was available but browser binaries were missing; responsive CSS, mobile table rules, generated HTML and live HTTP surfaces were verified instead. No YouTube embed was used because current SERP intent was application/comparison-led and a video was not materially useful."
+    },
+    {
+      "keyword": "best second chance car loans in Ontario",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "best-second-chance-car-loans-ontario",
+      "title": "Best Second Chance Car Loans in Ontario: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-second-chance-car-loans-ontario/",
+      "date": "2026-08-04",
+      "status": "published",
+      "commit": "41404e6",
+      "articleCommit": "af97d8c",
+      "renderFixCommit": "41404e6",
+      "verifiedAt": "2026-08-04T10:31:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "chromeHeadlessLive",
+        "mobileRender": "chromeCDP390LocalAfterLiveCssFix",
+        "finalLiveAttempts": 3
+      },
+      "serpObservations": [
+        "SERP intent is commercial/BOFU, mixing second-chance auto loan explainers, Ontario dealer finance pages, bad-credit broker pages, subprime finance homepages and application-first landing pages.",
+        "Relevant current results include Bankrate and Capital One educational pages, Ontario-specific provider pages such as 401 Auto Financing, You Get A Second Chance, Right Turn Auto Credit, NOS Motors, 905 Autos and Affordable Auto Finance, plus Canadian bad-credit guidance from Neo Financial.",
+        "Common page types are landing pages, finance applications and broad bad-credit auto loan explainers; most emphasize speed, all-credit language, lender networks, bankruptcy/no-credit support and forms rather than neutral total-cost comparison.",
+        "Gap addressed: a neutral Ontario listicle comparing seven second-chance routes, with lender-name, APR, term, credit reporting, co-signer, down payment, title-loan and Ontario contract checks, without invented rates, reviews or approval claims."
+      ],
+      "sources": [
+        "https://www.bankrate.com/loans/auto-loans/second-chance-auto-loans/",
+        "https://www.capitalone.com/cars/learn/managing-your-money-wisely/what-are-secondchance-car-loans/1701",
+        "https://www.401auto.ca/",
+        "https://yougetasecondchance.com/",
+        "https://rta.ca/blog/car-loans-for-people-with-financial-challenges-in-ontario/",
+        "https://nosmotors.ca/",
+        "https://affordableautofinance.ca/",
+        "https://www.neofinancial.com/blog/bad-credit-car-loans-canada",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/title-loans.html",
+        "https://www.omvic.ca/buying/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/best-bad-credit-car-loans-windsor/",
+        "https://carlender.loans/blog/best-car-loans-after-bankruptcy-ontario/",
+        "https://carlender.loans/blog/best-no-credit-car-financing-windsor/"
+      ],
+      "featuredImage": "/assets/best-second-chance-car-loans-ontario.jpg",
+      "notes": "Article created, pushed to main, live custom-domain HTTP verification passed on the final article URL, image, blog index and sitemap. A mobile overflow issue found in Chrome headless was fixed; true 390px CDP emulation on local served source confirmed scrollWidth 390 and H1/byline/image inside viewport. Eleventy local build command hung while importing Eleventy, before template processing; static audits passed."
     }
   ],
   "skipped": []
