@@ -52,3 +52,4 @@ nav a:hover,nav a[aria-current=page]{background:var(--soft);color:var(--ink)}
 .article-body .faq h3{margin-top:28px}
 .article-body .disclaimer{font-size:16px;color:var(--muted);border-top:1px solid var(--line);padding-top:18px}
 @media (max-width:620px){.article-body{min-width:0;overflow-wrap:anywhere}.article-body table{table-layout:fixed;white-space:normal}.article-body th,.article-body td{min-width:0;padding:10px;font-size:14px}}
+@media (max-width:620px){.article-head{min-width:0;overflow-wrap:anywhere;padding-top:54px}.article-head h1{font-size:clamp(32px,10vw,38px);line-height:1.06}.article-head p,.byline{overflow-wrap:anywhere}.article-layout{overflow:hidden}.article-body h2{font-size:28px}.article-body h3{font-size:22px}}
