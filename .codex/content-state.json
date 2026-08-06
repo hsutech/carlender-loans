@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-04T10:31:00+02:00",
+  "updatedAt": "2026-08-06T06:04:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -445,6 +445,57 @@
       ],
       "featuredImage": "/assets/best-second-chance-car-loans-ontario.jpg",
       "notes": "Article created, pushed to main, live custom-domain HTTP verification passed on the final article URL, image, blog index and sitemap. A mobile overflow issue found in Chrome headless was fixed; true 390px CDP emulation on local served source confirmed scrollWidth 390 and H1/byline/image inside viewport. Eleventy local build command hung while importing Eleventy, before template processing; static audits passed."
+    },
+    {
+      "keyword": "car lender reviews in Windsor Ontario",
+      "priority": "Alta",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "car-lender-reviews-windsor-ontario",
+      "title": "Car Lender Reviews in Windsor, Ontario: 7 Checks Before You Apply",
+      "url": "https://carlender.loans/blog/car-lender-reviews-windsor-ontario/",
+      "date": "2026-08-06",
+      "status": "published",
+      "commit": "c9a44a9",
+      "verifiedAt": "2026-08-06T06:04:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "Current review-intent SERP is commercial/local, mixing Car Lender-associated domains, Windsor dealership review profiles, local auto-finance application pages and official consumer-protection resources.",
+        "Relevant pages are mainly review profiles, finance landing pages and application-first dealer/broker pages rather than independent editorial reviews.",
+        "SERP pages commonly emphasize ratings, testimonials, fast applications, bad/no-credit eligibility, approval-oriented wording and finance department experience.",
+        "Gap addressed: a neutral checklist separating service reputation from written lender terms, total cost, privacy, vehicle fit and Ontario contract review, without inventing reviews or ratings."
+      ],
+      "sources": [
+        "https://www.usedcarloanwindsor.com/",
+        "https://www.autofinancingwindsor.com/",
+        "https://www.dealerrater.ca/dealer/Premier-Chevrolet-Buick-GMC-review-120851/",
+        "https://www.ezeewheelz.com/financing/",
+        "https://www.rockymotors.com/financing.html",
+        "https://www.automaxxwindsor.com/requests/credit.html",
+        "https://rta.ca/bad-credit-car-loans/windsor/",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.omvic.ca/buying/your-rights/all-in-price-advertising/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/best-bad-credit-car-loans-windsor/",
+        "https://carlender.loans/blog/best-no-credit-car-financing-windsor/",
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/blog/best-auto-financing-companies-windsor/"
+      ],
+      "featuredImage": "/assets/car-lender-reviews-windsor-ontario.jpg",
+      "notes": "Article created, pushed to main, dist artifacts repaired, mobile overflow fixed and verified live on the custom domain."
     }
   ],
   "skipped": []
