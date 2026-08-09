@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-06T06:04:00+02:00",
+  "updatedAt": "2026-08-09T05:36:29+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -496,6 +496,56 @@
       ],
       "featuredImage": "/assets/car-lender-reviews-windsor-ontario.jpg",
       "notes": "Article created, pushed to main, dist artifacts repaired, mobile overflow fixed and verified live on the custom domain."
+    },
+    {
+      "keyword": "bad credit car loan alternatives in Ontario",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "bad-credit-car-loan-alternatives-ontario",
+      "title": "Bad Credit Car Loan Alternatives in Ontario: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/bad-credit-car-loan-alternatives-ontario/",
+      "date": "2026-08-09",
+      "status": "published",
+      "commit": "bfc5c26",
+      "verifiedAt": "2026-08-09T05:36:29+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "chromeHeadlessLive",
+        "mobileRender": "chromeCDP390Live",
+        "finalLiveAttempts": 2
+      },
+      "serpObservations": [
+        "Current Google Canada/Ontario SERP is commercial and BOFU, mixing bad-credit auto loan comparison pages, lender tables, specialist Ontario subprime pages, dealer or broker lead forms and official consumer-protection resources.",
+        "Relevant comparison pages are long, table-led guides with authors or editors, table of contents, eligibility criteria, FAQs and calculators; application-first Ontario pages are shorter and emphasize lender networks, bad/no-credit, bankruptcy, consumer proposals and quick forms.",
+        "Common coverage includes alternative lenders, dealership financing, co-signers, pre-approval, income requirements, high-cost warnings, total cost, scams or automatic-approval cautions, credit reports and title-loan risks.",
+        "Gap addressed: a neutral alternatives guide that helps Ontario borrowers decide whether to use direct lenders, co-signers, cheaper vehicles, delayed purchase, specialist brokers or transport bridges before accepting a costly bad-credit car loan."
+      ],
+      "sources": [
+        "https://www.finder.com/ca/car-loans/bad-credit/bad-credit-car-loans-ontario",
+        "https://www.finder.com/ca/car-loans/bad-credit",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/title-loans.html",
+        "https://www.omvic.ca/news/blogs/negative-equity-in-car-buying-what-every-consumer-should-know/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://rta.ca/blog/car-loans-for-people-with-financial-challenges-in-ontario/",
+        "https://www.401auto.ca/",
+        "https://nosmotors.ca/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/best-second-chance-car-loans-ontario/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/bad-credit-car-loan-alternatives-ontario.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain. npm run build hung while starting Eleventy, consistent with prior runs; required dist artifacts were synchronized manually and verified locally/live. No YouTube embed was used because current SERP intent was comparison/application-led and official written sources were more useful."
     }
   ],
   "skipped": []
