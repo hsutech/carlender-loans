@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-09T05:36:29+02:00",
+  "updatedAt": "2026-08-10T05:31:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -546,6 +546,54 @@
       ],
       "featuredImage": "/assets/bad-credit-car-loan-alternatives-ontario.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain. npm run build hung while starting Eleventy, consistent with prior runs; required dist artifacts were synchronized manually and verified locally/live. No YouTube embed was used because current SERP intent was comparison/application-led and official written sources were more useful."
+    },
+    {
+      "keyword": "dealership financing vs bank loan Canada",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Canada",
+      "slug": "dealership-financing-vs-bank-loan-canada",
+      "title": "Dealership Financing vs Bank Loan in Canada: 7 Checks Before You Choose",
+      "url": "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+      "date": "2026-08-10",
+      "status": "published",
+      "commit": "f6822ea",
+      "verifiedAt": "2026-08-10T05:31:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "chromeCDPLive1366",
+        "mobileRender": "chromeCDPLive390",
+        "finalLiveAttempts": 2
+      },
+      "serpObservations": [
+        "Current Google Canada SERP is comparison-led and BOFU, mixing Canada.ca financial education, Canadian auto marketplace explainers, rate-comparison articles, bank guidance and consumer-protection resources.",
+        "Relevant pages commonly include a direct answer, table of contents, pros and cons, comparison tables, pre-approval guidance, FAQs and warnings to compare total cost rather than only monthly payment.",
+        "Common coverage includes dealership convenience and manufacturer/lender networks, bank or credit union pre-approval, APR, term, fees, lender identity, vehicle restrictions, negative equity and contract-signing cautions.",
+        "Gap addressed: an Ontario-aware comparison process for Canadian shoppers that explains how to use both routes, what to ask before signing and how to avoid payment-only or conditional-financing surprises without inventing rates or approvals."
+      ],
+      "sources": [
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.autotrader.ca/editorial/car-buying-tips/should-you-use-bank-or-dealer-financing-when-buying-your-next-car/",
+        "https://rates.ca/resources/should-you-go-bank-or-dealership-your-car-loan",
+        "https://www.finder.com/ca/car-loans/dealer-finance-vs-car-loan",
+        "https://www.omvic.ca/buying/your-rights/",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/understanding-negative-equity/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/bad-credit-car-loan-alternatives-ontario/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/dealership-financing-vs-bank-loan-canada.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain. npm run build hung while starting Eleventy, consistent with prior runs; required dist artifacts were synchronized manually and verified locally/live. No YouTube embed was used because current SERP intent was written comparison/regulatory guidance and no video materially improved the article."
     }
   ],
   "skipped": []
