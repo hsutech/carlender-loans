@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-10T05:31:00+02:00",
+  "updatedAt": "2026-08-15T05:35:30+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -594,6 +594,49 @@
       ],
       "featuredImage": "/assets/dealership-financing-vs-bank-loan-canada.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain. npm run build hung while starting Eleventy, consistent with prior runs; required dist artifacts were synchronized manually and verified locally/live. No YouTube embed was used because current SERP intent was written comparison/regulatory guidance and no video materially improved the article."
+    },
+    {
+      "keyword": "car loan vs personal loan Canada",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Canada",
+      "slug": "car-loan-vs-personal-loan-canada",
+      "title": "Car Loan vs Personal Loan in Canada: 7 Checks Before You Borrow",
+      "url": "https://carlender.loans/blog/car-loan-vs-personal-loan-canada/",
+      "date": "2026-08-15",
+      "status": "published",
+      "commit": "28686c9",
+      "verifiedAt": "2026-08-15T05:35:30+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "Current Google Canada intent is BOFU and comparison-led, mixing government financial education, personal-loan explainers, auto-loan comparison pages, private-sale financing guidance and line-of-credit comparisons.",
+        "Relevant top-result formats are long guides with a direct answer, comparison table, pros and cons, eligibility notes, total-cost warnings, FAQs and occasional video or calculator-style support.",
+        "Common coverage includes collateral/security, vehicle restrictions, private-sale flexibility, APR/fees/term, payment frequency, total cost of borrowing, prepayment language and long-term car-loan risk.",
+        "Gap addressed: a practical Canadian used-car decision guide that compares written offers, older/private-sale vehicles, credit profile and Ontario negative-equity risk without invented rates, rankings, reviews or approval claims."
+      ],
+      "sources": [
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/personal-loans.html",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/understanding-negative-equity/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/bad-credit-car-loan-alternatives-ontario/"
+      ],
+      "featuredImage": "/assets/car-loan-vs-personal-loan-canada-2026.jpg",
+      "notes": "Article created from the next pending workbook keyword, pushed to main through GitHub API because local Git commit operations hung, and verified live on the custom domain."
     }
   ],
   "skipped": []
