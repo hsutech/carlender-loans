@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-15T05:35:30+02:00",
+  "updatedAt": "2026-08-17T05:33:50+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -637,6 +637,57 @@
       ],
       "featuredImage": "/assets/car-loan-vs-personal-loan-canada-2026.jpg",
       "notes": "Article created from the next pending workbook keyword, pushed to main through GitHub API because local Git commit operations hung, and verified live on the custom domain."
+    },
+    {
+      "keyword": "best first car loans in Ontario",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "best-first-car-loans-ontario",
+      "title": "Best First Car Loans in Ontario: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-first-car-loans-ontario/",
+      "date": "2026-08-17",
+      "status": "published",
+      "commit": "6040412",
+      "verifiedAt": "2026-08-17T05:33:50+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "SERP intent is commercial/BOFU and comparison-led, mixing first-time buyer guides, Ontario car-loan comparison pages, dealer or broker application pages and official Canada/Ontario consumer-protection resources.",
+        "Relevant pages commonly use long guide formats with table of contents, comparison tables, author/update signals, calculators or requirements, FAQs and application CTAs.",
+        "First-time buyer pages emphasize budget, thin credit, documents, dealership process, down payment, co-signers, insurance and using the first loan to build credit.",
+        "Gap addressed: a neutral Ontario first-car-loan comparison that separates bank/credit-union quotes, dealer-arranged financing, comparison routes, co-signers, used-car-first financing, student/newcomer paths and wait-or-build-credit options without invented rates, rankings, reviews or approval promises."
+      ],
+      "sources": [
+        "https://ontariocarprogram.ca/first-time-car-buyer-canada/",
+        "https://www.finder.com/ca/car-loans/car-loans-ontario",
+        "https://www.alwaysapproved.ca/learn/first-time-buyer-tips",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/",
+        "https://www.ontario.ca/page/buy-or-sell-used-vehicle-ontario",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/blog/best-used-car-loans-windsor-ontario/",
+        "https://carlender.loans/blog/best-car-loans-newcomers-canada/",
+        "https://carlender.loans/blog/best-no-credit-car-financing-windsor/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/best-first-car-loans-ontario.jpg",
+      "notes": "Article created from a clean origin/main clone, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain verification passed. Mobile overflow found during QA and fixed before publication state was recorded."
     }
   ],
   "skipped": []
