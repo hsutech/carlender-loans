@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-17T05:33:50+02:00",
+  "updatedAt": "2026-08-18T09:33:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -688,6 +688,56 @@
       ],
       "featuredImage": "/assets/best-first-car-loans-ontario.jpg",
       "notes": "Article created from a clean origin/main clone, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain verification passed. Mobile overflow found during QA and fixed before publication state was recorded."
+    },
+    {
+      "keyword": "best self employed car loans in Ontario",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "best-self-employed-car-loans-ontario",
+      "title": "Best Self Employed Car Loans in Ontario: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-self-employed-car-loans-ontario/",
+      "date": "2026-08-18",
+      "status": "published",
+      "commit": "a5c10c0",
+      "verifiedAt": "2026-08-18T09:33:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "Current Google Canada/Ontario intent is commercial and BOFU, led by Ontario dealer finance pages, self-employed auto-finance guides, broad Ontario car-loan comparison pages and official consumer/tax resources.",
+        "Relevant pages commonly use guide or application-page formats with document lists, author/update signals, table of contents, FAQs, lender-network positioning, and CTAs for pre-approval or application starts.",
+        "Common coverage includes proof of income, CRA Notices of Assessment, bank statements, tax returns, down payments, co-signers, credit profile, variable income, specialist lenders and contract/total-cost checks.",
+        "Gap addressed: a neutral Ontario comparison of seven self-employed car loan routes with documentation-first guidance and no invented rates, reviews, approval promises or first-hand claims."
+      ],
+      "sources": [
+        "https://www.401auto.ca/auto-financing/self-employed-car-loans/",
+        "https://www.finder.com/ca/car-loans/car-loans-ontario",
+        "https://www.carnationcanadadirect.ca/blog/self-employed-car-loan/",
+        "https://autolendingcanada.ca/blog/car-loan-in-canada-for-self-employed",
+        "https://www.legacyautocredit.ca/vehicle-financing",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/after-you-file/noa-nor.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.omvic.ca/buying/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/blog/car-loan-preapproval-checklist/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/car-loan-vs-personal-loan-canada/"
+      ],
+      "featuredImage": "/assets/best-self-employed-car-loans-ontario.jpg",
+      "notes": "Article created from a clean origin/main clone, pushed to main, Cloudflare workflow succeeded, and live custom-domain verification passed. Chrome headless desktop/mobile screenshots were written and inspected; Chrome required interruption after writing screenshots because updater background tasks kept the process open."
     }
   ],
   "skipped": []
