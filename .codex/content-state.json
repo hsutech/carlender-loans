@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-18T09:33:00+02:00",
+  "updatedAt": "2026-08-21T12:54:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -738,6 +738,54 @@
       ],
       "featuredImage": "/assets/best-self-employed-car-loans-ontario.jpg",
       "notes": "Article created from a clean origin/main clone, pushed to main, Cloudflare workflow succeeded, and live custom-domain verification passed. Chrome headless desktop/mobile screenshots were written and inspected; Chrome required interruption after writing screenshots because updater background tasks kept the process open."
+    },
+    {
+      "keyword": "best car loans with low down payment",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Canada",
+      "slug": "best-car-loans-with-low-down-payment",
+      "title": "Best Car Loans With Low Down Payment: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-car-loans-with-low-down-payment/",
+      "date": "2026-08-21",
+      "status": "published",
+      "commit": "5f9951b",
+      "verifiedAt": "2026-08-21T12:52:36+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "Current Google Canada intent is commercial/BOFU, mixing no-down-payment and low-down-payment lender pages, comparison guides, bank car-loan resources and consumer-protection guidance.",
+        "Relevant top formats use direct answers, tables of contents, comparison tables, qualification factors, pros and cons, FAQs and application CTAs.",
+        "SERP pages commonly emphasize $0 down or low upfront cash, but fewer explain negative equity, total cost, term length and Ontario signing rights in the same comparison.",
+        "Gap addressed: a neutral seven-route comparison that separates banks, dealer-arranged financing, online/broker routes, trade-in equity, co-signers, lower-priced used vehicles and waiting to save more without invented approvals, prices, rates or reviews."
+      ],
+      "sources": [
+        "https://www.finder.com/ca/car-loans/no-deposit",
+        "https://loanscanada.ca/auto/no-down-payment-car-loans/",
+        "https://www.cibc.com/en/personal-banking/loans-and-lines-of-credit/articles-resources/borrowing-for-car.html",
+        "https://www.yesautocanada.ca/low-down-payment-options",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/understanding-negative-equity/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/blog/car-loan-preapproval-checklist/",
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/bad-credit-car-loans/"
+      ],
+      "featuredImage": "/assets/best-car-loans-with-low-down-payment.jpg",
+      "notes": "Article created, pushed to main, Cloudflare Pages workflow succeeded, and live custom-domain verification passed. Local and live Chrome headless desktop/mobile screenshots were generated; article-specific mobile width constraints were tightened before push."
     }
   ],
   "skipped": []
