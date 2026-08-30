@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-21T12:54:00+02:00",
+  "updatedAt": "2026-08-30T05:28:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -786,6 +786,56 @@
       ],
       "featuredImage": "/assets/best-car-loans-with-low-down-payment.jpg",
       "notes": "Article created, pushed to main, Cloudflare Pages workflow succeeded, and live custom-domain verification passed. Local and live Chrome headless desktop/mobile screenshots were generated; article-specific mobile width constraints were tightened before push."
+    },
+    {
+      "keyword": "best auto loans for students in Ontario",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "best-auto-loans-for-students-ontario",
+      "title": "Best Auto Loans for Students in Ontario: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-auto-loans-for-students-ontario/",
+      "date": "2026-08-30",
+      "status": "published",
+      "commit": "3107a07",
+      "verifiedAt": "2026-08-30T05:28:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "SERP intent is commercial/BOFU and comparison-led, mixing student car loan guides, lender marketplaces, dealer/lender-network pages, a bank grad auto program page and official Canada/Ontario consumer-protection resources.",
+        "Top relevant pages use long guide formats with author or reviewer bylines, table of contents blocks, provider tables, student eligibility notes, co-signer guidance, international-student sections and FAQs.",
+        "Application-led pages emphasize lender matching, low down payment options, thin-credit or part-time-income students and quick pre-approval language; official pages support claims around credit reports, OSAP, shopping around, total cost and vehicle-buying rights.",
+        "Gap addressed: an Ontario student-specific seven-route comparison that separates direct lenders, dealer-arranged financing, grad programs, co-signers, broker routes, used-car-first financing and transport alternatives without invented rates, approval odds, reviews or first-hand claims."
+      ],
+      "sources": [
+        "https://www.finder.com/ca/car-loans/student-car-loan-guide",
+        "https://loanscanada.ca/auto/car-loans-for-students/",
+        "https://www.401auto.ca/auto-financing/student-car-loans/",
+        "https://www.scotiabank.com/ca/en/personal/loans-lines/grad-auto-loan.html",
+        "https://www.ontario.ca/page/learn-about-osap",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/blog/best-first-car-loans-ontario/",
+        "https://carlender.loans/blog/best-no-credit-car-financing-windsor/",
+        "https://carlender.loans/bad-credit-car-loans/"
+      ],
+      "featuredImage": "/assets/best-auto-loans-for-students-ontario.jpg",
+      "notes": "Article created, pushed to main, GitHub Actions/Cloudflare workflow completed, and live custom-domain verification passed."
     }
   ],
   "skipped": []
