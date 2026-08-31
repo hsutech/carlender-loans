@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-30T05:28:00+02:00",
+  "updatedAt": "2026-08-31T05:29:30+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -836,6 +836,59 @@
       ],
       "featuredImage": "/assets/best-auto-loans-for-students-ontario.jpg",
       "notes": "Article created, pushed to main, GitHub Actions/Cloudflare workflow completed, and live custom-domain verification passed."
+    },
+    {
+      "keyword": "used car financing rates Ontario",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "used-car-financing-rates-ontario",
+      "title": "Used Car Financing Rates in Ontario: 7 Checks Before You Apply",
+      "url": "https://carlender.loans/blog/used-car-financing-rates-ontario/",
+      "date": "2026-08-31",
+      "status": "published",
+      "commit": "051f9f9",
+      "verifiedAt": "2026-08-31T05:28:58+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "Current Google Canada/Ontario intent is BOFU and comparison-led, mixing used car loan rate guides, Ontario lender comparison pages, bank auto-loan product pages, dealer-finance explainers and official consumer-finance resources.",
+        "Top relevant pages commonly use long guide formats with author/update signals, tables of contents, APR/provider tables, calculators, credit-tier discussion, vehicle-age limits and FAQs.",
+        "SERP coverage emphasizes advertised rate ranges, credit scores, lender type, loan term, down payment and used-vehicle restrictions; bank pages usually describe product features and terms rather than a universal used-car rate.",
+        "Gap addressed: an Ontario used-car rate interpretation guide focused on APR, total borrowing cost, vehicle eligibility, loan term and negative-equity risk without invented personal quotes, approvals, reviews or first-hand claims."
+      ],
+      "sources": [
+        "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/interest-rates-for-new-and-existing-lending-by-chartered-banks/",
+        "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+        "https://www.finder.com/ca/car-loans/car-loans-ontario",
+        "https://www.finder.com/ca/car-loans/car-loan-interest-rates",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.td.com/ca/en/personal-banking/products/borrowing/car-loans",
+        "https://www.scotiabank.com/ca/en/personal/loans-lines/auto-loan.html",
+        "https://www.cibc.com/en/personal-banking/loans-and-lines-of-credit/articles-resources/car-loan.html",
+        "https://www.rbcroyalbank.com/car-loans/index.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/understanding-negative-equity/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/best-car-loans-with-low-down-payment/",
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/used-car-financing-rates-ontario.jpg",
+      "notes": "Article created from a clean origin/main clone, pushed to main, Cloudflare Pages workflow completed, and live custom-domain verification passed."
     }
   ],
   "skipped": []
