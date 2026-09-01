@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-08-31T05:29:30+02:00",
+  "updatedAt": "2026-09-01T09:56:30+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -889,6 +889,58 @@
       ],
       "featuredImage": "/assets/used-car-financing-rates-ontario.jpg",
       "notes": "Article created from a clean origin/main clone, pushed to main, Cloudflare Pages workflow completed, and live custom-domain verification passed."
+    },
+    {
+      "keyword": "documents needed for a car loan in Ontario",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "documents-needed-car-loan-ontario",
+      "title": "Documents Needed for a Car Loan in Ontario: 7 Checks Before You Apply",
+      "url": "https://carlender.loans/blog/documents-needed-car-loan-ontario/",
+      "date": "2026-09-01",
+      "status": "published",
+      "commit": "1e7cd71",
+      "verifiedAt": "2026-09-01T09:56:30+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "SERP intent is BOFU and checklist-led, with Ontario-specific document guides, dealer/lender education pages, marketplace explainers and official Canada/Ontario consumer resources.",
+        "Relevant top formats use quick answers, table of contents blocks, practical checklists, proof-of-income and proof-of-address sections, special-situation notes and FAQs.",
+        "Top relevant sources observed included Ontario Car Financing, Right Turn Auto Credit, Finder Canada, LendingTree, Bankrate, Canada.ca, Ontario.ca, OMVIC and FINTRAC identity-verification guidance.",
+        "Gap addressed: an Ontario-focused staged document guide separating pre-approval, full application, vehicle selection, insurance, trade-in and contract steps, with privacy and consent cautions."
+      ],
+      "sources": [
+        "https://rta.ca/blog/documents-needed-before-vehicle-financing-ontario/",
+        "https://ontariocarfinancing.ca/documents-needed-for-car-loan-ontario.html",
+        "https://www.finder.com/ca/car-loans/car-loans-ontario",
+        "https://www.lendingtree.com/auto/car-loan-documentation-checklist/",
+        "https://www.bankrate.com/loans/auto-loans/auto-loan-documentation-checklist/",
+        "https://www.ontario.ca/page/acceptable-identity-documents",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/order-credit-report.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.omvic.ca/buying/your-rights/",
+        "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/guide11/11-eng"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/blog/used-car-financing-rates-ontario/",
+        "https://carlender.loans/blog/best-self-employed-car-loans-ontario/",
+        "https://carlender.loans/blog/best-auto-loans-for-students-ontario/",
+        "https://carlender.loans/blog/best-car-loans-with-low-down-payment/"
+      ],
+      "featuredImage": "/assets/documents-needed-car-loan-ontario.jpg",
+      "notes": "Article created, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain HTTP plus desktop/mobile render verification passed."
     }
   ],
   "skipped": []
