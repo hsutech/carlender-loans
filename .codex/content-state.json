@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-09-01T09:56:30+02:00",
+  "updatedAt": "2026-09-18T05:28:30+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -941,6 +941,56 @@
       ],
       "featuredImage": "/assets/documents-needed-car-loan-ontario.jpg",
       "notes": "Article created, pushed to main, GitHub Actions/Cloudflare deployment succeeded and live custom-domain HTTP plus desktop/mobile render verification passed."
+    },
+    {
+      "keyword": "how to get pre approved for a car loan in Canada",
+      "priority": "Media",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Canada",
+      "slug": "how-to-get-pre-approved-car-loan-canada",
+      "title": "How to Get Pre Approved for a Car Loan in Canada: 7 Steps Before You Shop",
+      "url": "https://carlender.loans/blog/how-to-get-pre-approved-car-loan-canada/",
+      "date": "2026-09-18",
+      "status": "published",
+      "commit": "24aea2a",
+      "verifiedAt": "2026-09-18T05:28:30+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "Current Google Canada intent is BOFU and commercial/how-to led, mixing long pre-approval guides, online auto-finance application pages, lender comparison pages and official consumer-finance resources.",
+        "Relevant top formats use quick answers, table of contents blocks, author/update signals, step-by-step application guidance, lender/provider comparisons, soft-versus-hard credit check explanations, documents sections and FAQs.",
+        "Top relevant sources observed included Finder Canada, Canada Drives, FirstCars, Clutch, FindAVehicle, NerdWallet Canada, MoneyMatch and official Canada/Ontario consumer resources.",
+        "Gap addressed: a Canada-wide pre-approval process that separates budget benchmark, soft/hard inquiry, pre-approval versus final approval, vehicle eligibility and contract review without inventing rates, approvals, reviews or first-hand claims."
+      ],
+      "sources": [
+        "https://www.finder.com/ca/car-loans/pre-approved-car-loan",
+        "https://www.canadadrives.ca/blog/car-finance/what-is-a-car-loan-pre-approval",
+        "https://firstcars.ca/learn/getting-pre-approved",
+        "https://www.clutch.ca/blog/posts/how-to-get-a-car-loan-pre-approval",
+        "https://findavehicle.ca/get-pre-approved/",
+        "https://www.nerdwallet.com/ca/p/article/banking/how-car-loans-work",
+        "https://moneymatchcanada.ca/car-loan-pre-approval-canada",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/documents-needed-car-loan-ontario/",
+        "https://carlender.loans/blog/car-loan-pre-approval-windsor-ontario/",
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/how-to-get-pre-approved-car-loan-canada.jpg",
+      "notes": "Article created from a clean origin/main clone, pushed to main, Cloudflare Pages deploy completed despite the pre-existing optional project-create warning, and live custom-domain HTTP plus desktop/mobile render verification passed."
     }
   ],
   "skipped": []
