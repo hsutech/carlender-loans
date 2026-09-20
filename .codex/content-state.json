@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-09-18T05:28:30+02:00",
+  "updatedAt": "2026-09-20T09:15:10+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -991,6 +991,55 @@
       ],
       "featuredImage": "/assets/how-to-get-pre-approved-car-loan-canada.jpg",
       "notes": "Article created from a clean origin/main clone, pushed to main, Cloudflare Pages deploy completed despite the pre-existing optional project-create warning, and live custom-domain HTTP plus desktop/mobile render verification passed."
+    },
+    {
+      "keyword": "how much car can I afford in Ontario",
+      "priority": "Baja",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "how-much-car-can-i-afford-ontario",
+      "title": "How Much Car Can I Afford in Ontario: 7 Checks Before You Apply",
+      "url": "https://carlender.loans/blog/how-much-car-can-i-afford-ontario/",
+      "date": "2026-09-20",
+      "status": "published",
+      "commit": "7db3bbb",
+      "verifiedAt": "2026-09-20T09:15:10+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "Current Google Canada/Ontario intent is BOFU and calculator-led, mixing car affordability calculators, payment calculators, Ontario finance pages, debt-to-income explainers and government consumer guidance.",
+        "Relevant top formats use calculator tools, quick answers, budget inputs, payment or price estimates, ownership-cost reminders, term/rate/down-payment controls, FAQs and application CTAs.",
+        "SERP pages commonly cover income, debt, down payment, trade-in, interest rate, term, insurance, maintenance and total cost; stronger pages warn that longer terms can make payments look easier while increasing borrowing cost.",
+        "Gap addressed: an Ontario-focused affordability checklist that starts from all-in ownership cost, stress-tests debt and insurance, and connects pre approval to final contract review without inventing approvals, rates, prices or financial advice."
+      ],
+      "sources": [
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/car-afford-video.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car.html",
+        "https://www.spheracredit.com/en/resources/tools/borrowers/canada/car-affordability-calculator",
+        "https://www.moneymetrics.ca/calculators/vehicle/affordability",
+        "https://www.ontariocarfinancing.ca/car-affordability-calculator.html",
+        "https://ised-isde.canada.ca/site/vllc/en/lease-loan-calculator/calculators",
+        "https://www.omvic.ca/buying/",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/understanding-negative-equity/",
+        "https://www.finder.com/ca/car-loans/buying-a-car/what-is-the-average-car-payment",
+        "https://www.clutch.ca/financing/loan-calculator"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/used-car-financing-rates-ontario/",
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/blog/how-to-get-pre-approved-car-loan-canada/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/how-much-car-can-i-afford-ontario.jpg",
+      "notes": "Article created from a clean origin/main clone, pushed to main, Cloudflare/custom-domain verification passed. The canonical URL briefly served the homepage during propagation, then returned the article correctly; live desktop and mobile renders were verified."
     }
   ],
   "skipped": []
