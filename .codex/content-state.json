@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-09-20T09:15:10+02:00",
+  "updatedAt": "2026-09-21T05:29:47+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -1040,6 +1040,57 @@
       ],
       "featuredImage": "/assets/how-much-car-can-i-afford-ontario.jpg",
       "notes": "Article created from a clean origin/main clone, pushed to main, Cloudflare/custom-domain verification passed. The canonical URL briefly served the homepage during propagation, then returned the article correctly; live desktop and mobile renders were verified."
+    },
+    {
+      "keyword": "car loan application mistakes Canada",
+      "priority": "Baja",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Canada",
+      "slug": "car-loan-application-mistakes-canada",
+      "title": "Car Loan Application Mistakes in Canada: 7 Checks Before You Apply",
+      "url": "https://carlender.loans/blog/car-loan-application-mistakes-canada/",
+      "date": "2026-09-21",
+      "status": "published",
+      "commit": "44d5440",
+      "verifiedAt": "2026-09-21T05:29:47+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "Current Google Canada intent is BOFU and checklist-led, mixing car-financing mistake guides, application-preparation pages, official consumer-finance guidance and Ontario dealer-rights resources.",
+        "Relevant top formats use short mistake lists, quick answers, author/update signals, document sections, credit-inquiry cautions, total-cost warnings and FAQs.",
+        "SERP coverage emphasizes monthly-payment tunnel vision, long terms, negative equity, incomplete documents, credit report checks, unclear lender submissions, inaccurate applications and contract review.",
+        "Gap addressed: a Canadian pre-submit application checklist that ties budget, credit consent, documents, vehicle fit and written contract checks together without inventing approval odds, rates, reviews or first-hand claims."
+      ],
+      "sources": [
+        "https://www.ratehub.ca/blog/common-pitfalls-financing-a-car/",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/order-credit-report.html",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://rta.ca/blog/car-financing-mistakes-credit-challenges/",
+        "https://quickapprovals.ca/car-loan-application-checklist-canada-2/",
+        "https://wealthnorth.ca/debt/personal-loans/before-you-get-a-car-loan-canada/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/how-much-car-can-i-afford-ontario/",
+        "https://carlender.loans/blog/used-car-financing-rates-ontario/",
+        "https://carlender.loans/blog/how-to-get-pre-approved-car-loan-canada/",
+        "https://carlender.loans/blog/documents-needed-car-loan-ontario/",
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/car-loan-application-mistakes-canada.jpg",
+      "notes": "Article created from a clean origin/main clone, pushed to main, GitHub Actions/Cloudflare workflow completed, and live custom-domain HTTP plus desktop/mobile render verification passed."
     }
   ],
   "skipped": []
