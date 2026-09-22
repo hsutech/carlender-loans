@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-09-21T05:29:47+02:00",
+  "updatedAt": "2026-09-22T05:27:45+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -1091,6 +1091,55 @@
       ],
       "featuredImage": "/assets/car-loan-application-mistakes-canada.jpg",
       "notes": "Article created from a clean origin/main clone, pushed to main, GitHub Actions/Cloudflare workflow completed, and live custom-domain HTTP plus desktop/mobile render verification passed."
+    },
+    {
+      "keyword": "best SUV financing in Windsor",
+      "priority": "Baja",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "best-suv-financing-windsor",
+      "title": "Best SUV Financing in Windsor: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-suv-financing-windsor/",
+      "date": "2026-09-22",
+      "status": "published",
+      "commit": "ffa2805",
+      "verifiedAt": "2026-09-22T05:27:45+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
+      },
+      "serpObservations": [
+        "SERP intent is commercial/BOFU and local, led by Windsor used-SUV inventory pages, dealer finance/application pages, Ontario broker/subprime pages and consumer-protection resources.",
+        "Relevant page types include inventory pages, dealer finance departments, pre-approval/application flows, lender-network pages and official guidance on loan, lease and contract comparison.",
+        "Top relevant results commonly emphasize easy applications, flexible credit, SUVs/trucks/vans, payment calculators, leasing or dealer-arranged financing, but rarely offer a neutral Windsor-specific route comparison.",
+        "Gap addressed: a practical seven-option comparison for SUV shoppers that separates dealer, direct lender, used-SUV, lease, broker, challenged-credit and preparation-first paths without inventing rates, reviews or approvals."
+      ],
+      "sources": [
+        "https://www.autotrader.ca/cars/reg_on/cit_windsor/bt_suv/ot_used",
+        "https://www.qaddisautosales.ca/",
+        "https://www.premierchev.com/finance/",
+        "https://nosmotors.ca/",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://ised-isde.canada.ca/site/vllc/en/lease-loan-calculator/calculators",
+        "https://www.omvic.ca/buying/your-rights/financing-disclosures/",
+        "https://www.omvic.ca/news/blogs/the-most-important-document-in-your-car-purchase/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/truck-suv-van-loans/",
+        "https://carlender.loans/blog/how-much-car-can-i-afford-ontario/",
+        "https://carlender.loans/blog/documents-needed-car-loan-ontario/",
+        "https://carlender.loans/car-loan-application/",
+        "https://carlender.loans/blog/used-car-financing-rates-ontario/"
+      ],
+      "featuredImage": "/assets/best-suv-financing-windsor.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain. Chrome headless desktop and mobile screenshots rendered correctly."
     }
   ],
   "skipped": []
