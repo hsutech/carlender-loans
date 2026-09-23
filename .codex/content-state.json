@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-09-22T05:27:45+02:00",
+  "updatedAt": "2026-09-23T08:54:50+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -1140,6 +1140,54 @@
       ],
       "featuredImage": "/assets/best-suv-financing-windsor.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain. Chrome headless desktop and mobile screenshots rendered correctly."
+    },
+    {
+      "keyword": "best work truck financing in Windsor",
+      "priority": "Baja",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "best-work-truck-financing-windsor",
+      "title": "Best Work Truck Financing in Windsor: 7 Options to Compare",
+      "url": "https://carlender.loans/blog/best-work-truck-financing-windsor/",
+      "date": "2026-09-23",
+      "status": "published",
+      "commit": "127b7ed",
+      "verifiedAt": "2026-09-23T08:54:50+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "chromeHeadlessLive",
+        "mobileRender": "chromeHeadlessLive",
+        "finalLiveAttempts": 2
+      },
+      "serpObservations": [
+        "Current Google Canada/Windsor intent is commercial and local, split between light-duty work pickups or vans and heavier commercial truck financing.",
+        "Relevant results include Windsor commercial-truck finance pages, truck dealers, equipment-finance brokers, used truck inventory/application pages and official Ontario/Canada resources.",
+        "Common coverage includes loans, leases, conditional sales, refinance, private-sale financing, business documents, down payment, lender access, truck type, insurance and commercial-use requirements.",
+        "Gap addressed: a neutral Windsor comparison that separates personal-use pickups from business work trucks, commercial equipment finance and CVOR/compliance checks without inventing rates, reviews or approval claims."
+      ],
+      "sources": [
+        "https://premiertruck.com/finance/premier-truck-group-of-windsor",
+        "https://www.expresswaytrucks.com/Sales.htm",
+        "https://more.brandt.ca/peterbilt/financing/",
+        "https://www.mehmigroup.com/local-truck-loans/truck-loan-windsor",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car.html",
+        "https://www.ontario.ca/page/commercial-vehicle-operators-registration-cvor",
+        "https://www.ontario.ca/page/commercial-vehicle-safety-requirements",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/understanding-negative-equity/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/truck-suv-van-loans/",
+        "https://carlender.loans/blog/best-truck-financing-ontario/",
+        "https://carlender.loans/blog/documents-needed-car-loan-ontario/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/best-work-truck-financing-windsor.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain. npm install and npm run build passed; local/live HTTP checks, JSON-LD, blog index, sitemap, image and Chrome desktop/mobile render were verified. No YouTube embed was used because current intent was written comparison/application/compliance-led and no video materially improved the article."
     }
   ],
   "skipped": []
