@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-09-23T08:54:50+02:00",
+  "updatedAt": "2026-10-02T12:11:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -1188,6 +1188,54 @@
       ],
       "featuredImage": "/assets/best-work-truck-financing-windsor.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain. npm install and npm run build passed; local/live HTTP checks, JSON-LD, blog index, sitemap, image and Chrome desktop/mobile render were verified. No YouTube embed was used because current intent was written comparison/application/compliance-led and no video materially improved the article."
+    },
+    {
+      "keyword": "refinancing a car loan in Ontario",
+      "priority": "Baja",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Ontario, Canada",
+      "slug": "refinancing-a-car-loan-ontario",
+      "title": "Refinancing a Car Loan in Ontario: 7 Checks Before You Switch",
+      "url": "https://carlender.loans/blog/refinancing-a-car-loan-ontario/",
+      "date": "2026-10-02",
+      "status": "published",
+      "commit": "42f61fc",
+      "verifiedAt": "2026-10-02T12:11:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "chromeHeadlessLive",
+        "mobileRender": "chromeHeadlessLive",
+        "finalLiveAttempts": 2
+      },
+      "serpObservations": [
+        "Current Google Canada/Ontario intent is mixed commercial and educational, led by refinance explainers, lender/comparison pages, application paths and official consumer-protection guidance.",
+        "Relevant top formats use direct answers, step-by-step refinancing checklists, eligibility criteria, documents, pros and cons, refinance calculators, author/update signals and FAQs.",
+        "Common coverage includes current payout, vehicle value, credit and income changes, fees, prepayment charges, older/high-mileage vehicle restrictions, negative equity, lien payoff and total-cost comparison.",
+        "Gap addressed: an Ontario-specific decision guide that warns against payment-only refinancing and compares payoff, equity, term length, lien handling and alternatives without inventing rates, savings or approval claims."
+      ],
+      "sources": [
+        "https://www.finder.com/ca/car-loans/refinancing",
+        "https://loanscanada.ca/auto/refinancing-a-car-loan/",
+        "https://www.401auto.ca/auto-financing/refinance-car-loan/",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks-car-liens.html",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/understanding-negative-equity/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/documents-needed-car-loan-ontario/",
+        "https://carlender.loans/blog/used-car-financing-rates-ontario/",
+        "https://carlender.loans/blog/how-much-car-can-i-afford-ontario/",
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/refinancing-a-car-loan-ontario.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain. npm ci and npm run build passed; git diff --check passed; local and live HTTP checks, JSON-LD, blog index, sitemap, image and Chrome desktop/mobile render were verified. No YouTube embed was used because current intent was checklist/comparison-led and no video materially improved the refinancing decision."
     }
   ],
   "skipped": []
