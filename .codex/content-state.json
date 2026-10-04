@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-10-02T12:11:00+02:00",
+  "updatedAt": "2026-10-04T15:04:18+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -1236,6 +1236,53 @@
       ],
       "featuredImage": "/assets/refinancing-a-car-loan-ontario.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain. npm ci and npm run build passed; git diff --check passed; local and live HTTP checks, JSON-LD, blog index, sitemap, image and Chrome desktop/mobile render were verified. No YouTube embed was used because current intent was checklist/comparison-led and no video materially improved the refinancing decision."
+    },
+    {
+      "keyword": "trade in with an existing car loan Canada",
+      "priority": "Baja",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Canada",
+      "slug": "trade-in-existing-car-loan-canada",
+      "title": "Trade In With an Existing Car Loan in Canada: 7 Checks Before You Sign",
+      "url": "https://carlender.loans/blog/trade-in-existing-car-loan-canada/",
+      "date": "2026-10-04",
+      "status": "published",
+      "commit": "de02d99",
+      "verifiedAt": "2026-10-04T15:04:18+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "chromeHeadlessLive",
+        "mobileRender": "chromeHeadlessLive",
+        "finalLiveAttempts": 1
+      },
+      "serpObservations": [
+        "Current Google Canada intent is BOFU and decision-led, mixing dealer explainers, marketplace trade-in guides, appraisal pages and official consumer-protection resources.",
+        "Relevant top formats answer whether a financed vehicle can be traded in, then explain lender payoff, liens, appraisal, positive equity, negative equity, rolling debt into a new loan and contract review.",
+        "Common coverage includes examples of owing more or less than the trade value, dealer payoff handling, private-sale alternatives, taxes/fees, final approval and FAQ sections.",
+        "Gap addressed: a Canada-wide trade-in checklist with Ontario examples that traces the old loan, trade value, lien and new amount financed without inventing rates, tax outcomes, savings or approval claims."
+      ],
+      "sources": [
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks-car-liens.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.omvic.ca/buying/shopping-tips/car-loans/understanding-negative-equity/",
+        "https://www.ontario.ca/page/buying-new-or-used-vehicle-your-rights",
+        "https://www.autotrader.ca/editorial/20200323/how-do-i-trade-in-a-car-that-s-not-paid-off/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/refinancing-a-car-loan-ontario/",
+        "https://carlender.loans/blog/how-much-car-can-i-afford-ontario/",
+        "https://carlender.loans/used-car-financing/",
+        "https://carlender.loans/blog/documents-needed-car-loan-ontario/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/trade-in-existing-car-loan-canada.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain. npm ci and npm run build passed; git diff --check passed; local and live HTTP checks, JSON-LD, blog index, sitemap, image and Chrome desktop/mobile render were verified. No YouTube embed was used because current intent was payoff/contract checklist-led and no available YouTube source materially improved the trade-in decision."
     }
   ],
   "skipped": []
