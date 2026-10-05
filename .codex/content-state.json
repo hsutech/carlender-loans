@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-10-05T00:00:00+02:00",
+  "updatedAt": "2026-10-05T12:12:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -1293,18 +1293,18 @@
       "title": "How Credit Scores Affect Car Loans in Canada: 7 Checks Before You Apply",
       "url": "https://carlender.loans/blog/how-credit-scores-affect-car-loans-canada/",
       "date": "2026-10-05",
-      "status": "pending_verification",
-      "commit": null,
-      "verifiedAt": null,
+      "status": "published",
+      "commit": "701aa03",
+      "verifiedAt": "2026-10-05T12:12:00+02:00",
       "verification": {
-        "http200": false,
-        "h1": false,
-        "canonical": false,
-        "imageLoaded": false,
-        "blogIndex": false,
-        "sitemap": false,
-        "desktopRender": false,
-        "mobileRender": false
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": true,
+        "mobileRender": true
       },
       "serpObservations": [
         "Current Google Canada intent is educational with BOFU/commercial follow-through: official FCAC credit-report pages, credit-score threshold explainers, dealer or marketplace guides and FAQ-heavy pages.",
@@ -1329,7 +1329,7 @@
         "https://carlender.loans/car-loan-application/"
       ],
       "featuredImage": "/assets/how-credit-scores-affect-car-loans-canada.jpg",
-      "notes": "Article drafted from current SERP and awaits publication/live verification."
+      "notes": "Article created, pushed to main and verified live on the custom domain after adding built dist artifacts."
     }
   ],
   "skipped": []
