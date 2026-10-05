@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-10-04T15:04:18+02:00",
+  "updatedAt": "2026-10-05T00:00:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -1283,6 +1283,53 @@
       ],
       "featuredImage": "/assets/trade-in-existing-car-loan-canada.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain. npm ci and npm run build passed; git diff --check passed; local and live HTTP checks, JSON-LD, blog index, sitemap, image and Chrome desktop/mobile render were verified. No YouTube embed was used because current intent was payoff/contract checklist-led and no available YouTube source materially improved the trade-in decision."
+    },
+    {
+      "keyword": "how credit scores affect car loans in Canada",
+      "priority": "Baja",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada / Canada",
+      "slug": "how-credit-scores-affect-car-loans-canada",
+      "title": "How Credit Scores Affect Car Loans in Canada: 7 Checks Before You Apply",
+      "url": "https://carlender.loans/blog/how-credit-scores-affect-car-loans-canada/",
+      "date": "2026-10-05",
+      "status": "pending_verification",
+      "commit": null,
+      "verifiedAt": null,
+      "verification": {
+        "http200": false,
+        "h1": false,
+        "canonical": false,
+        "imageLoaded": false,
+        "blogIndex": false,
+        "sitemap": false,
+        "desktopRender": false,
+        "mobileRender": false
+      },
+      "serpObservations": [
+        "Current Google Canada intent is educational with BOFU/commercial follow-through: official FCAC credit-report pages, credit-score threshold explainers, dealer or marketplace guides and FAQ-heavy pages.",
+        "Top relevant pages commonly open with a direct answer, then cover score ranges, approval odds, APR impact, hard vs soft inquiries, credit-report checks, improvement tips and FAQs.",
+        "Official Canada.ca and TransUnion sources are strongest for credit-report mechanics, inquiries and score factors; commercial pages provide car-loan-specific framing but often imply score thresholds that vary by lender.",
+        "Gap addressed: a cautious Canada-wide vehicle-finance guide explaining how scores influence approval, APR, down payment, co-signer needs, vehicle choice and timing without invented cutoffs, rates or approval claims."
+      ],
+      "sources": [
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/credit-report-score-basics.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/improve-credit-score.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/order-credit-report.html",
+        "https://www.transunion.ca/customer-support/faq",
+        "https://www.finder.com/ca/car-loans/car-loans-credit-check",
+        "https://www.spheracredit.com/en/resources/learn/what-credit-score-is-needed-for-a-car",
+        "https://carhive.com/blog/what-credit-score-do-you-need-to-finance-a-car-in-canada"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/used-car-financing-rates-ontario/",
+        "https://carlender.loans/blog/how-to-get-pre-approved-car-loan-canada/",
+        "https://carlender.loans/blog/how-much-car-can-i-afford-ontario/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/how-credit-scores-affect-car-loans-canada.jpg",
+      "notes": "Article drafted from current SERP and awaits publication/live verification."
     }
   ],
   "skipped": []
