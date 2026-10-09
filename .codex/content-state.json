@@ -1,6 +1,6 @@
 {
   "domain": "carlender.loans",
-  "updatedAt": "2026-10-05T12:12:00+02:00",
+  "updatedAt": "2026-10-09T02:13:00+02:00",
   "published": [
     {
       "keyword": "best used car loans in Windsor Ontario",
@@ -1330,6 +1330,57 @@
       ],
       "featuredImage": "/assets/how-credit-scores-affect-car-loans-canada.jpg",
       "notes": "Article created, pushed to main and verified live on the custom domain after adding built dist artifacts."
+    },
+    {
+      "keyword": "best vehicle financing options in Windsor",
+      "priority": "Baja",
+      "language": "English",
+      "market": "Windsor, Ontario, Canada",
+      "slug": "best-vehicle-financing-options-windsor",
+      "title": "Best Vehicle Financing Options in Windsor: 7 Routes to Compare",
+      "url": "https://carlender.loans/blog/best-vehicle-financing-options-windsor/",
+      "date": "2026-10-08",
+      "status": "published",
+      "commit": "6faef6b",
+      "verifiedAt": "2026-10-09T02:13:00+02:00",
+      "verification": {
+        "http200": true,
+        "h1": true,
+        "canonical": true,
+        "imageLoaded": true,
+        "blogIndex": true,
+        "sitemap": true,
+        "desktopRender": "chromeHeadlessLive",
+        "mobileRender": "chromeHeadlessLive",
+        "finalLiveAttempts": 1
+      },
+      "serpObservations": [
+        "Current Google Canada/Windsor intent is commercial and local, led by dealer finance forms, auto-financing landing pages, used-vehicle inventory, bad-credit application pages, broker networks and national car-loan explainers.",
+        "Relevant pages commonly emphasize fast applications, flexible credit, trade-ins, SUVs, trucks, online forms and pre-approval, but most are application or inventory pages rather than neutral route comparisons.",
+        "Official Canada.ca and OMVIC sources provide the strongest consumer-protection layer for financing options, shopping around, total cost, credit-report preparation, lease-versus-loan comparison and Ontario dealer disclosures.",
+        "Gap addressed: a Windsor-specific umbrella comparison that separates dealer, bank or credit-union, used-vehicle dealer, broker network, manufacturer lease/finance, challenged-credit and preparation-first routes without inventing rates, reviews or approval claims."
+      ],
+      "sources": [
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/financing-options.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/shop-around.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/loans/financing-car/risks.html",
+        "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/order-credit-report.html",
+        "https://ised-isde.canada.ca/site/vllc/en/lease-loan-calculator/calculators",
+        "https://www.omvic.ca/buying/your-rights/financing-disclosures/",
+        "https://www.omvic.ca/news/blogs/the-most-important-document-in-your-car-purchase/",
+        "https://www.autofinancingwindsor.com/"
+      ],
+      "internalLinks": [
+        "https://carlender.loans/blog/dealership-financing-vs-bank-loan-canada/",
+        "https://carlender.loans/bad-credit-car-loans/",
+        "https://carlender.loans/blog/how-credit-scores-affect-car-loans-canada/",
+        "https://carlender.loans/blog/best-suv-financing-windsor/",
+        "https://carlender.loans/blog/best-work-truck-financing-windsor/",
+        "https://carlender.loans/blog/documents-needed-car-loan-ontario/",
+        "https://carlender.loans/car-loan-application/"
+      ],
+      "featuredImage": "/assets/best-vehicle-financing-options-windsor.jpg",
+      "notes": "Article created, pushed to main and verified live on the custom domain. npm ci and npm run build passed; git diff --check passed; local/live HTTP checks, JSON-LD, blog index, sitemap, image and Chrome desktop/mobile render were verified. No YouTube embed was used because current intent was route-comparison/application-led and no video materially improved the decision."
     }
   ],
   "skipped": []
